@@ -1,2 +1,9 @@
 *.log
-/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry.bin
+Saved/Autosaves
+/Saved/Crashes
+/Saved/Config/CrashReportClient
+/Saved/Config/WindowsEditor
